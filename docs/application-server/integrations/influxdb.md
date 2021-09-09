@@ -21,6 +21,8 @@ payloads are decoded, you can use the [live device event-log](../use/event-loggi
 feature. Decoded payload data will be available under the `object` key in
 the JSON object.
 
+If you want to use InfluxDB 2.x, you must have your ChirpStack Application Server version is 3.16 or higher.
+
 ## Measurements
 
 ### Naming
